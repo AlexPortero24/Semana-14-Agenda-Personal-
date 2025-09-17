@@ -1,4 +1,4 @@
-# La GUI se realizó con las indicaciones de la tarea
+# La agenda se realizó con las indicaciones de la tarea correctamente 
 import tkinter as tk
 from tkinter import ttk, messagebox
 from tkcalendar import DateEntry  # Importar el DatePicker
