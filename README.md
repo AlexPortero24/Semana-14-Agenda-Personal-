@@ -26,8 +26,3 @@ La interfaz fue diseñada con un enfoque práctico y educativo, siguiendo las in
 - Validación básica de campos para asegurar que no se agreguen eventos incompletos.
 - Mensajes de confirmación y advertencia para mejorar la experiencia del usuario.
 
-## Instalación
-
-1. Clonar este repositorio:
-   ```bash
-   git clone https://github.com/tu_usuario/agenda-personal.git
